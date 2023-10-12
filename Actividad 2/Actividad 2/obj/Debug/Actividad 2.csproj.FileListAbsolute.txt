@@ -1,0 +1,10 @@
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 2\Actividad 2\bin\Debug\Actividad 2.exe.config
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 2\Actividad 2\bin\Debug\Actividad 2.exe
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 2\Actividad 2\bin\Debug\Actividad 2.pdb
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 2\Actividad 2\obj\Debug\Actividad 2.csproj.AssemblyReference.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 2\Actividad 2\obj\Debug\Actividad_2.Form1.resources
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 2\Actividad 2\obj\Debug\Actividad_2.Properties.Resources.resources
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 2\Actividad 2\obj\Debug\Actividad 2.csproj.GenerateResource.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 2\Actividad 2\obj\Debug\Actividad 2.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 2\Actividad 2\obj\Debug\Actividad 2.exe
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 2\Actividad 2\Actividad 2\obj\Debug\Actividad 2.pdb
